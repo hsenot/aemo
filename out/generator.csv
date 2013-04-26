@@ -309,7 +309,7 @@ Red Energy Pty Ltd,Hepburn Wind Farm,VIC1,Generator,Market,Non-Scheduled,Wind,Wi
 Redbank Project Pty Limited,Redbank Power Station,NSW1,Generator,Market,Scheduled,Fossil,Coal Tailings,Combustion,Steam Sub-Critical,1,150,N,REDBANK1,150,151,5
 RTA Yarwun Pty Ltd,Yarwun Power Station,QLD1,Generator,Market,Non-Scheduled,,,,,1,154,N,YARWUN_1,154,180,36
 Secure Energy Pty Ltd,Southbank Institute Of Technology Unit 1 Plant,QLD1,Generator,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1,1,N,STHBKTEC,1,1,
-Snowtown Wind Farm Pty Ltd,Snowtown Wind Farm Units 1 And 47,SA1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-47,2.1,Y,SNOWTWN1,99,99,20
+Snowtown Wind Farm Pty Ltd,Snowtown Wind Farm,SA1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-47,2.1,Y,SNOWTWN1,99,99,20
 Snowy Hydro Limited,Blowering Power Station,NSW1,Generator,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,70,N,BLOWERNG,70,80,10
 Snowy Hydro Limited,Guthega Power Station,NSW1,Generator,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,30,Y,GUTHEGA,60,80,20
 Snowy Hydro Limited,Guthega Power Station,NSW1,Generator,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,2,30,Y,GUTHEGA,-,-,
