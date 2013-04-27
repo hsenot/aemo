@@ -34,8 +34,8 @@ Infratil Energy Australia Pty Ltd,Angaston Power Station,SA1,Generator,Market,No
 Infratil Energy Australia Pty Ltd,Angaston Power Station,SA1,Generator,Market,Non-Scheduled,Fossil,Diesel,Combustion,Compression Reciprocating Engine,1-12,1.667,Y,ANGAS2,20,20,17
 State Electricity Commission (Vic),Anglesea Power Station,VIC1,Generator,Market,Non-Scheduled,Fossil,Brown Coal,Combustion,Steam Sub-Critical,1,150,N,APS,150,160,4
 Infratil Energy Australia Pty Ltd,Awaba Power Station,NSW1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,,,1,1.123,N,AWABAREF,1.123,1,
-EnerNOC Pty Ltd,Bankstown Sports Club Plant Units ,NSW1,Generator,Market,Non-Scheduled,Fuel Oil,Diesel,Combustion,Compression Reciprocating Engine,1,0.8,N,BANKSPT1,2,2,
-EnerNOC Pty Ltd,Bankstown Sports Club Plant Units ,NSW1,Generator,Market,Non-Scheduled,Fuel Oil,Diesel,Combustion,Compression Reciprocating Engine,2,1.34,N,BANKSPT1,-,-,
+EnerNOC Pty Ltd,Bankstown Sports Club Plant Units ,NSW1,Generator,Market,Non-Scheduled,Fuel Oil,Diesel,Combustion,Compression Reciprocating Engine,1,0.8,Y,BANKSPT1,2,2,
+EnerNOC Pty Ltd,Bankstown Sports Club Plant Units ,NSW1,Generator,Market,Non-Scheduled,Fuel Oil,Diesel,Combustion,Compression Reciprocating Engine,2,1.34,Y,BANKSPT1,-,-,
 AGL Hydro Partnership,Banimboola Power Station,VIC1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-2,5.3,Y,BAPS,12.85,13,
 AGL Hydro Partnership,Banimboola Power Station,VIC1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,3,2.25,Y,BAPS,-,-,
 Ergon Energy Queensland Pty Ltd,Barcaldine Power Station,QLD1,Generator,Market,Scheduled,Fossil,Natural Gas,Combustion,Combined Cycle Gas Turbine (CCGT),1,57,N,BARCALDN,55,57,12
