@@ -27,6 +27,7 @@ Out
 Contains the data files that have been processed for use by other processes:
 - generator.csv
 Processing steps:
+Sort the spreadsheet by DUID, Station Name and Region
 Export of the AEMO main spreadsheet of generators and scheduled loads (Open in OpenOffice > Save as CSV)
 Clean up the last few lines that do not contain generator information
 
