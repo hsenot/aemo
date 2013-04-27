@@ -2,7 +2,6 @@ Participant,Station Name,Region,Dispatch Type,Category,Classification,Fuel Sourc
 EDL Group Operations Pty Ltd,Appin Power Plant,NSW1,Generator,Non-Market,Non-Scheduled,Fossil,Coal Seam Methane,Combustion,Spark Ignition Reciprocating Engine,1-54,1.03,N,-,55.6,55,
 EDL Group Operations Pty Ltd,Berwick Power Plant,VIC1,Generator,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-5,1.44,N,-,7.2,7,
 EDL Group Operations Pty Ltd,Broadmeadows Power Plant,VIC1,Generator,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-7,1.03,N,-,7.2,7,
-Pacific Hydro Challicum Hills Pty Ltd,Challicum Hills Wind Farm,VIC1,Generator,Non-Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-35,1.5,Y,-,52.5,53,
 EDL Group Operations Pty Ltd,Clayton Power Plant,VIC1,Generator,Non-Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Spark Ignition Reciprocating Engine,1-11,1,N,-,11,11,
 AGL Hydro Partnership,Clover Power Station,VIC1,Generator,Non-Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1-2,14.5,N,-,30,30,
 Energy Pacific (Vic) Pty Ltd,Codrington Wind Farm,VIC1,Generator,Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-14,1.3,N,-,18.2,18,
@@ -87,6 +86,7 @@ Delta Electricity,Colongra Power Station,NSW1,Generator,Market,Scheduled,Fossil,
 Delta Electricity,Colongra Power Station,NSW1,Generator,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),2,181,N,CG2,181,181,34
 Delta Electricity,Colongra Power Station,NSW1,Generator,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),3,181,N,CG3,181,181,34
 Delta Electricity,Colongra Power Station,NSW1,Generator,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),4,181,N,CG4,181,181,34
+Pacific Hydro Challicum Hills Pty Ltd,Challicum Hills Wind Farm,VIC1,Generator,Non-Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-35,1.5,Y,CHALLHWF,52.5,53,
 Pacific Hydro Clements Gap Pty Ltd,Clements Gap Wind Farm,SA1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-27,2,N,CLEMGPWF,57,57,12
 Hydro-Electric Corporation,Cluny Power Station,TAS1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,17,N,CLUNY,17,19,
 Canunda Power Pty Ltd,Canunda Wind Farm,SA1,Generator,Non-Market,Non-Scheduled,Wind,Wind,Renewable,Wind - Onshore,1-23,2,N,CNUNDAWF,46,46,
