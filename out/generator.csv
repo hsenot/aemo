@@ -61,8 +61,8 @@ Braemar Power Project Pty Ltd,Braemar Power Station ,QLD1,Generator,Market,Sched
 NewGen Braemar 2 Partnership,Braemar 2 Power Station,QLD1,Generator,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),5,173,N,BRAEMAR5,173,173,35
 NewGen Braemar 2 Partnership,Braemar 2 Power Station,QLD1,Generator,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),6,173,N,BRAEMAR6,173,173,35
 NewGen Braemar 2 Partnership,Braemar 2 Power Station,QLD1,Generator,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),7,173,N,BRAEMAR7,173,173,35
-AGL Sales (Queensland Electricity) Pty Limited,Brooklyn Landfill And Waste Recycling Facility,VIC1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-2,1.15,N,BROOKLYN,3.05,3,
-AGL Sales (Queensland Electricity) Pty Limited,Brooklyn Landfill And Waste Recycling Facility,VIC1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,3,0.75,N,BROOKLYN,-,-,
+AGL Sales (Queensland Electricity) Pty Limited,Brooklyn Landfill And Waste Recycling Facility,VIC1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-2,1.15,Y,BROOKLYN,3.05,3,
+AGL Sales (Queensland Electricity) Pty Limited,Brooklyn Landfill And Waste Recycling Facility,VIC1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,3,0.75,Y,BROOKLYN,-,-,
 Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,0.5,Y,BROWNMT,4.95,6,
 Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,2-3,0.75,Y,BROWNMT,-,-,
 Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,4-5,1,Y,BROWNMT,-,-,
