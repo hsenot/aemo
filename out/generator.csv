@@ -67,8 +67,8 @@ Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Re
 Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,2-3,0.75,Y,BROWNMT,-,-,
 Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,4-5,1,Y,BROWNMT,-,-,
 Eraring Energy,Brown Mountain,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,6,4.2,Y,BROWNMT,-,-,
-Eraring Energy,Burrinjuck Power Station,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,3-4,5.7,N,BURRIN,27,28,
-Eraring Energy,Burrinjuck Power Station,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,5,15.4,N,BURRIN,-,-,
+Eraring Energy,Burrinjuck Power Station,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,3-4,5.7,Y,BURRIN,27,28,
+Eraring Energy,Burrinjuck Power Station,NSW1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,5,15.4,Y,BURRIN,-,-,
 Hydro-Electric Corporation,Butlers Gorge Power Station,TAS1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,14.4,N,BUTLERSG,14.4,15,
 Macquarie Generation,Bayswater Power Station,NSW1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,1,660,N,BW01,660,700,140
 Macquarie Generation,Bayswater Power Station,NSW1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,2,660,N,BW02,660,700,140
