@@ -259,8 +259,8 @@ Hydro-Electric Corporation,Reece Power Station,TAS1,Generator,Market,Scheduled,H
 Hydro-Electric Corporation,Reece Power Station,TAS1,Generator,Market,Scheduled,Hydro,Water,Renewable,Hydro - Gravity,2,115.6,N,REECE2,115.6,119,40
 Infratil Energy Australia Pty Ltd,Remount Power Station,TAS1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,,,1-2,1,N,REMOUNT,2,2,
 Hydro-Electric Corporation,Repulse Power Station,TAS1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,28,N,REPULSE,28,29,
-Origin Energy Electricity Limited,Rochedale Renewable Energy Facility,QLD1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-3,1.1,N,ROCHEDAL,4,4,
-Origin Energy Electricity Limited,Rochedale Renewable Energy Facility,QLD1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,4,0.7,N,ROCHEDAL,-,-,
+Origin Energy Electricity Limited,Rochedale Renewable Energy Facility,QLD1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-3,1.1,Y,ROCHEDAL,4,4,
+Origin Energy Electricity Limited,Rochedale Renewable Energy Facility,QLD1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,4,0.7,Y,ROCHEDAL,-,-,
 Origin Energy Electricity Limited,Roma Gas Turbine Station,QLD1,Generator,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),7,40,N,ROMA_7,40,42,9
 Origin Energy Electricity Limited,Roma Gas Turbine Station,QLD1,Generator,Market,Scheduled,Fossil,Natural Gas,Combustion,Open Cycle Gas turbines (OCGT),8,40,N,ROMA_8,40,42,9
 Hydro-Electric Corporation,Rowallan Power Station,TAS1,Generator,Market,Non-Scheduled,Hydro,Water,Renewable,Hydro - Gravity,1,10.5,N,ROWALLAN,10.5,11,
